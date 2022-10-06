@@ -14,3 +14,13 @@
 
 ## What information we don't share?
 <b>We dont share your guild ids to anyone since its your private data, and we will keep it secret.</b>
+
+<details><summary>Click For Terms of Service</summary>
+<p>
+
+## Terrific Tone Terms of Service
+
+- Here is [Terms of Service](https://github.com/Enterprise-ir/Terrific-Tone-TOS/blob/main/Terms%20of%20Service.md)
+</p>
+</details>
+
