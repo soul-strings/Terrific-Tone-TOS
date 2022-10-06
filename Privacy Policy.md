@@ -1,1 +1,1 @@
-#Terrific Tone Privacy Policy
+# Terrific Tone Privacy Policy
