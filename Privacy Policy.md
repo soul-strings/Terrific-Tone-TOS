@@ -15,6 +15,22 @@
 ## What information we don't share?
 <b>We dont share your guild ids to anyone since its your private data, and we will keep it secret.</b>
 
+## Request data removal
+<b>You can request your data to be removed at any time but this may be effected if you are an old premium user, playlists, channel song request.</b>
+<b>The recommended way to contact us for data removal is our [Discord server]() or you can contact me personally - Enterprise#7172</b>
+<b>If you have lost your account we may request additional info or verification to delete your data or if it has been deleted by Discord we will remove all data.</b>
+
+##Contact Us
+<b>If you have any issues with our services or want to provide feedback you can join our [Discord server](https://discord.gg/tghqa6qWVw)</b>
+
+## Discord data
+<b>Our Discord bots use the [Discord API](https://discord.com/) to obtain data and if you use them we may store your user id, playlist that you saved, guild id and name, user name, channel name and id and other information that i said to be used in the Terrific Tone.
+Any user or server setting that you configure in the Terrific Tone will also be stored which includes username and playlist, song request channel name and id, premium profile and autoplay (channel name and id).
+You can view the [Discord Privacy Policy](https://discord.com/privacy) for more info.</b>
+
+## Policy updates
+<b>We may update our privacy policy at any time to correct any issues or support other services we have developed and will update this page with a log including announcements on our [Discord server](https://discord.gg/tghqa6qWVw) to notify you of any changes.</b>
+
 <details><summary>Click For Terms of Service</summary>
 <p>
 
