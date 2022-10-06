@@ -8,5 +8,15 @@
 - Advertise Terrific Tone Bot as your bot
 
 <b>By using Terrific Tone, you agree to these Terms of Service, as well as to the Discord Terms of Service.</b>
-<b>You agree to checking our Terms of Service and Privacy Policies regularly.</b>
-<b>check Privacy Policy :</b> `https://gist.github.com/Enterprise-ir/c90798d90813edc6efa86eee2f19aa26`
+
+You agree to checking our Terms of Service and Privacy Policies regularly.
+
+<details><summary>Click For Privacy Policy</summary>
+<p>
+
+## Terrific Tone Privacy Policy
+
+- Here is [Privacy Policy](https://github.com/Enterprise-ir/Terrific-Tone-TOS/blob/main/Privacy%20Policy.md)
+</p>
+</details>
+
