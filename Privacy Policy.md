@@ -17,10 +17,10 @@
 
 ## Request data removal
 <b>You can request your data to be removed at any time but this may be effected if you are an old premium user, playlists, channel song request.</b>
-<b>The recommended way to contact us for data removal is our [Discord server]() or you can contact me personally - Enterprise#7172</b>
+<b>The recommended way to contact us for data removal is our [Discord server](https://discord.gg/tghqa6qWVw) or you can contact me personally `- Enterprise#7172`</b>
 <b>If you have lost your account we may request additional info or verification to delete your data or if it has been deleted by Discord we will remove all data.</b>
 
-##Contact Us
+## Contact Us
 <b>If you have any issues with our services or want to provide feedback you can join our [Discord server](https://discord.gg/tghqa6qWVw)</b>
 
 ## Discord data
